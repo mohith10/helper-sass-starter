@@ -1,0 +1,1 @@
+Live-Server bypass command Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
